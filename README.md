@@ -3,15 +3,19 @@
 
 
 * GET
+<img width="1512" alt="venues" src="https://user-images.githubusercontent.com/97739922/158064869-2c6497f2-b5c0-4dd1-877a-0c63c3a5c805.png">
 
-<img width="1512" alt="Screen Shot 1443-08-09 at 11 09 59 PM" src="https://user-images.githubusercontent.com/97739922/158037446-cdbf50fb-7b8d-4b5c-9b86-6f00e06ccc0f.png">
+
 <img width="1512" alt="Screen Shot 1443-08-09 at 11 12 16 PM" src="https://user-images.githubusercontent.com/97739922/158037458-6654035a-5a29-41d1-a16a-94bc8546ef04.png">
+
 <img width="1512" alt="Screen Shot 1443-08-10 at 1 24 21 AM" src="https://user-images.githubusercontent.com/97739922/158037473-49b667d9-a157-4847-9f80-26d32411309b.png">
 
 
 * POST
 
 <img width="1512" alt="Screen Shot 1443-08-10 at 1 25 51 AM" src="https://user-images.githubusercontent.com/97739922/158037491-24de62c5-8c4d-4943-88a6-24fe89c775e0.png">
+
+<img width="1512" alt="Screen Shot 1443-08-10 at 1 23 00 AM" src="https://user-images.githubusercontent.com/97739922/158064936-7cfcf425-5f4b-41d3-b738-d2f3ac651b47.png">
 
 
 * PUT
