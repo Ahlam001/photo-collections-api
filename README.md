@@ -6,7 +6,6 @@
 <img width="1512" alt="venues" src="https://user-images.githubusercontent.com/97739922/158064869-2c6497f2-b5c0-4dd1-877a-0c63c3a5c805.png">
 
 
-<img width="1512" alt="Screen Shot 1443-08-09 at 11 12 16 PM" src="https://user-images.githubusercontent.com/97739922/158037458-6654035a-5a29-41d1-a16a-94bc8546ef04.png">
 
 <img width="1512" alt="Screen Shot 1443-08-10 at 1 24 21 AM" src="https://user-images.githubusercontent.com/97739922/158037473-49b667d9-a157-4847-9f80-26d32411309b.png">
 
